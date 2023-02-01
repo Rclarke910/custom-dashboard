@@ -79,10 +79,10 @@ p.weather-temp {
 #quote{
     position: absolute;
     right: 10px;
-    bottom: 50px;
+    bottom: 65px;
     width: 25%;
-    
     font-family: cursive;
+    font-weight: bolder
     
 }
 
